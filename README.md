@@ -22,6 +22,7 @@ Over the past year, I have been working as a computer instructor, teaching **ope
 For more specialized classes, I also teach **artificial intelligence** and **Power BI**.
 
 My main tech stack includes **Python** and **R**. I use **RStudio** on a daily basis, and I use **Debian Linux** in my daily work.
+
 ---
 Fun facts:
 - I have 6 dogs em 2 cats
