@@ -21,7 +21,7 @@ I hold a degree in Business Administration and I am currently pursuing a degree 
 Over the past year, I have been working as a computer instructor, teaching **operating systems**, **Word**, **Excel**, **PowerPoint**, and **typing**.
 For more specialized classes, I also teach **artificial intelligence** and **Power BI**.
 
-My main tech stack includes **Python** and **R**. I use **RStudio** on a daily basis, and I use **Debian Linux** in my daily work.
+My main tech stack includes **Python**, **SQL** and **R**. I use **RStudio** on a daily basis, and I use **Debian Linux** in my daily work.
 
 ---
 Fun facts:
