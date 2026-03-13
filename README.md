@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Eridhonson, a data analyst and developer based in Brazil.
+
+I hold a degree in Business Administration and I am currently pursuing a degree in Systems Analysis and Development (IT).
+
+Over the past year, I have been working as a computer instructor, teaching **operating systems**, **Word**, **Excel**, **PowerPoint**, and **typing**.
+For more specialized classes, I also teach **artificial intelligence** and **Power BI**.
+
+My main tech stack includes **Python** and **R**. I use **RStudio** on a daily basis, and I use **Debian Linux** in my daily work.
+---
+Fun facts:
+- I have 6 dogs em 2 cats
+- I've worked in technology for 10 years, but before graduating in IT I started three different college majors: Physical Education, Economics, and Biology.
+- Blue Period is my favorite anime
+- Hobbies: long walks, watching anime, and reading.
