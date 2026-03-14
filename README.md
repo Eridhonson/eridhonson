@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Eridhonson, a data analyst and developer based in Brazil.
+I'm [Eridhonson](https://eridhonsonoliveira.notion.site/Eridhonson-61f17dec5165463ca890a495d2affcfa), a data analyst and developer based in Brazil.
 
 I hold a degree in Business Administration and I am currently pursuing a degree in Systems Analysis and Development (IT).
 
